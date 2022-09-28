@@ -69,6 +69,7 @@ li {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/bg-register-page.jpg");
   height: 85vh;
   background-size: cover;
+  width: 100%;
   background-position: center;
 }
 @media (max-width: 425px) {
